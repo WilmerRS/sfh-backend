@@ -1,9 +1,9 @@
 <div align="center">
-    <h1>🌀</h1>
+    <img src="https://shf.com.co/_nuxt/img/1b7499c.png">
 </div>
 
 <h1 style="margin-top:10px;" align="center"> ➰
-  <strong>  SFH TEST BACKEND </strong> ➿ 
+  <strong>  SHF TEST BACKEND </strong> ➿ 
 </h1>
 
 ## 🐙 Goals
